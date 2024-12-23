@@ -6,7 +6,8 @@ Here you will find a list of all of the talks I have given in conferences and Me
 
 ### 2024
 --------
-From Code to Community: Navigating Developer Relations in Open Source 
+
+From Code to Community: Navigating Developer Relations in Open Source   
 Dev-Fest Mt Kenya 2024  • November 9, 2024  • [See Event](https://gdg.community.dev/events/details/google-gdg-nyeri-presents-devfest-mt-kenya-2024/)
 
 
