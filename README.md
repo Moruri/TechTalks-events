@@ -15,7 +15,7 @@ AI driven insights on AWS: from data to decisions using machine learning
 AWS Student Community Day  •  5th October 2024   • [See Event](https://awsstudentcommunitykenya.co.ke/index.html#speakers)
 
  
-From Zero to Hero: Building an AI-powered Chatbot with Vertex AI Agent Builder and Gemini : A Practical Session
+From Zero to Hero: Building an AI-powered Chatbot with Vertex AI Agent Builder and Gemini : A Practical Session  
 Google IO Pwani 2024  • July 20, 2024  • [ See Event](https://gdg.community.dev/events/details/google-gdg-pwani-presents-google-io-extended-pwani-2024/)
 
 
