@@ -6,7 +6,8 @@ Here you will find a list of all of the talks I have given in conferences and Me
 
 ### 2024
 --------
-An Introduction to exploring machine learning with Crowdsource
+
+An Introduction to exploring machine learning with Crowdsource 
 GDG On Campus St Paul university Study Jam  • December 13, 2024   • [See Event](https://gdg.community.dev/events/details/google-gdg-on-campus-st-pauls-university-kiambu-kenya-presents-an-introduction-to-exploring-machine-learning-with-crowd-source/)  • [Watch Video](https://docs.google.com/presentation/d/16GAHttPJcv8wTJDbK17g0hh7cuI2w6ZV8TMivR0WKhI/edit?usp=sharing)
 
 
