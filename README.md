@@ -20,3 +20,9 @@ AWS Student Community Day  •  5th October 2024   • [See Event](https://awsst
  
 From Zero to Hero: Building an AI-powered Chatbot with Vertex AI Agent Builder and Gemini : A Practical Session  
 Google IO Pwani 2024  • July 20, 2024  • [ See Event](https://gdg.community.dev/events/details/google-gdg-pwani-presents-google-io-extended-pwani-2024/)
+
+### 2025
+-----------
+Scaling Documentation for a Global Audience: Localization and Accessibility Best Practices
+Write The Docs Kenya Conference  • 7th June 2025  • [[see event]](https://sessionize.com/app/speaker/session/profile/edit/6c8c5cf1-196e-4565-97db-1f77a64e47f8) 
+[[Slide Presentation]](https://docs.google.com/presentation/d/16NMdEOD1j2DBCUqcyEJI90kAiQ3x7wLBSNqsiWpU7s8/edit?usp=sharing)
