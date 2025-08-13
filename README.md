@@ -6,6 +6,14 @@ Here you will find a list of all of the talks I have given in conferences and Me
 
 ### 2025
 -----------
+
+Python + GenAI: Building Chatbots and Assistants with LangChain and OpenAI
+
+PyCon Uganda  • 7th - 9th August 2025
+• [see event](https://ug.pycon.org/2025/schedule/)  
+• [Slide Presentation](https://docs.google.com/presentation/d/1RBC3aZM6EgHvmAhdBiusY3dp3XcJ46oPAyhQrXJKYso/edit?usp=sharing) 
+
+
 Scaling Documentation for a Global Audience: Localization and Accessibility Best Practices
 
 Write The Docs Kenya Conference   • 7th June 2025  
