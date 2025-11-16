@@ -6,6 +6,16 @@ Here you will find a list of all of the talks I have given in conferences and Me
 
 ### 2025
 -----------
+AI-Powered Automation with n8n, and Gemini
+
+DevFest Nairobi 2025
+[See Event](https://gdg.community.dev/events/details/google-gdg-nairobi-presents-devfest-nairobi-day-one-hands-on-workshops-amp-codelabs/)
+[Slide Presentation](https://docs.google.com/presentation/d/1n0PuNS9P3kPCO6nDfctBLltatz_U2J4on6PpHdfe_Zc/edit?usp=sharing)
+
+Building AI agents 
+
+PyCon Kenya • 26 Sep - 27 Sep 2025
+[See Event ](https://x.com/PyconKenya/status/1971492223696109931?s=20)
 
 Python + GenAI: Building Chatbots and Assistants with LangChain and OpenAI
 
