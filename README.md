@@ -38,9 +38,12 @@ IWD 2026: Breaking the Pattern – Build with AI Study Jam   • 28 March 2026
 
 MLOPS On Vertex AI (Gemini Enterprise Agent Platform) With Nairobi DevOps                         
 March 2026 Study Jam
-[Session 1](https://luma.com/wib2jx1o) : From Experimentation to Production Pipelines.
-[Session 2](https://luma.com/qjdjmdm0) : Deployment, Governance & Serving.
-[Session 3](https://luma.com/rggyrsyc) :  The Feedback Loop & CI/CD.
+[Session 1](https://luma.com/wib2jx1o) : From Experimentation to Production Pipelines.                      
+
+[Session 2](https://luma.com/qjdjmdm0) : Deployment, Governance & Serving.                      
+
+[Session 3](https://luma.com/rggyrsyc) :  The Feedback Loop & CI/CD.                      
+
 
 
 ### 2025
