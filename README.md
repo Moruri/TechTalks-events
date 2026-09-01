@@ -14,25 +14,25 @@ GDE Prep Session   • 20 August 2026
 
 Governing Agentic Workloads with Agent Gateway on Gemini Enterprise Agent Platform.                        
 Google IO Pwani 2026 !  • 1 August 2026
-[See Event ](https://gdg.community.dev/events/details/google-gdg-pwani-presents-google-io-extended-pwani-2026/)
+[See Event ](https://gdg.community.dev/events/details/google-gdg-pwani-presents-google-io-extended-pwani-2026/)  
 [Session Code Lab ](https://codelabs.developers.google.com/cloudnet-agent-gateway#0)
 
 
 Architecting Multi-Source Data Grounds on Gemini Enterprise Agent Platform                        
 Google I/O Extended Mbarara 2026! • 18 July 2026
-[See Event ](https://gdg.community.dev/events/details/google-gdg-cloud-mbarara-presents-google-io-extended-mbarara-2026/)
+[See Event ](https://gdg.community.dev/events/details/google-gdg-cloud-mbarara-presents-google-io-extended-mbarara-2026/)  
 [Session Code Lab](https://codelabs.developers.google.com/codelabs/building-applications-in-the-ai-era)
 
 
 Developing LLM Apps using Vertex AI SDK                        
 Build with AI  • 11 may 2026
-[See Event](https://gdg.community.dev/events/details/google-gdg-on-campus-st-pauls-university-kiambu-kenya-presents-build-with-ai-developing-llm-apps-using-vertex-ai-sdk/)
+[See Event](https://gdg.community.dev/events/details/google-gdg-on-campus-st-pauls-university-kiambu-kenya-presents-build-with-ai-developing-llm-apps-using-vertex-ai-sdk/)  
 [Session Code lab](https://codelabs.developers.google.com/codelabs/production-ready-ai-with-gc/1-developing-apps-that-use-llms/developing-LLM-apps-with-Vertex-AI-SDK#0)
 
  
 Build Multi-Agent Systems with ADK                        
 IWD 2026: Breaking the Pattern – Build with AI Study Jam   • 28 March 2026
-[Session Code lab ](https://codelabs.developers.google.com/codelabs/production-ready-ai-with-gc/3-developing-agents/build-a-multi-agent-system-with-adk)
+[Session Code lab ](https://codelabs.developers.google.com/codelabs/production-ready-ai-with-gc/3-developing-agents/build-a-multi-agent-system-with-adk)  
 [See Event ](https://gdg.community.dev/events/details/google-gdg-on-campus-st-pauls-university-kiambu-kenya-presents-iwd-2026-breaking-the-pattern-build-with-ai-study-jam-launch/)
 
 
@@ -48,13 +48,13 @@ March 2026 Study Jam
 
 Agentic Workflows - Combining Gemini, and n8n for Business Automation                        
 DevFest Pwani 2025  • 25 Nov 2025
-[See Event](https://gdg.community.dev/events/details/google-gdg-pwani-presents-on-air-devfest-pwani-unplugged-agentic-workflows-combining-gemini-and-n8n-for-business-automation/)
+[See Event](https://gdg.community.dev/events/details/google-gdg-pwani-presents-on-air-devfest-pwani-unplugged-agentic-workflows-combining-gemini-and-n8n-for-business-automation/)  
 [Slide Presentation](https://docs.google.com/presentation/d/1n0PuNS9P3kPCO6nDfctBLltatz_U2J4on6PpHdfe_Zc/edit?slide=id.g39cee48505f_0_178#slide=id.g39cee48505f_0_178)
 
 
 AI-Powered Automation with n8n, and Gemini                        
 DevFest Nairobi 2025
-[See Event](https://gdg.community.dev/events/details/google-gdg-nairobi-presents-devfest-nairobi-day-one-hands-on-workshops-amp-codelabs/)
+[See Event](https://gdg.community.dev/events/details/google-gdg-nairobi-presents-devfest-nairobi-day-one-hands-on-workshops-amp-codelabs/)  
 [Slide Presentation](https://docs.google.com/presentation/d/1n0PuNS9P3kPCO6nDfctBLltatz_U2J4on6PpHdfe_Zc/edit?usp=sharing)
 
 
@@ -65,13 +65,13 @@ PyCon Kenya • 26 Sep - 27 Sep 2025
 
 Python + GenAI: Building Chatbots and Assistants with LangChain and OpenAI                        
 PyCon Uganda    • 7th - 9th August 2025
-• [see event](https://ug.pycon.org/2025/schedule/)  
+• [see event](https://ug.pycon.org/2025/schedule/)    
 • [Slide Presentation](https://docs.google.com/presentation/d/1RBC3aZM6EgHvmAhdBiusY3dp3XcJ46oPAyhQrXJKYso/edit?usp=sharing) 
 
 
 Scaling Documentation for a Global Audience: Localization and Accessibility Best Practices                        
 Write The Docs Kenya Conference   • 7th June 2025  
-• [see event](https://sessionize.com/app/speaker/session/profile/edit/6c8c5cf1-196e-4565-97db-1f77a64e47f8) 
+• [see event](https://sessionize.com/app/speaker/session/profile/edit/6c8c5cf1-196e-4565-97db-1f77a64e47f8)   
 [Slide Presentation](https://docs.google.com/presentation/d/16NMdEOD1j2DBCUqcyEJI90kAiQ3x7wLBSNqsiWpU7s8/edit?usp=sharing)
 
 
