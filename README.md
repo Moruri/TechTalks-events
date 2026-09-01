@@ -7,7 +7,7 @@ Here you will find a list of all of the talks I have given in conferences and Me
 ### 2026
 -----------
 
-Deploy a RAG AI Agent in Streamlit using Google ADK and Cloud Run.
+Deploy a RAG AI Agent in Streamlit using Google ADK and Cloud Run.                         
 GDE Prep Session   • 20 August 2026 
 [Session Code lab ](https://codelabs.developers.google.com/codelabs/cloud-run/build-streamlit-rag-agent-google-adk-cloud-run#0)
 
