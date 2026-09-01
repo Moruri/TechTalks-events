@@ -64,7 +64,7 @@ PyCon Kenya • 26 Sep - 27 Sep 2025
 
 
 Python + GenAI: Building Chatbots and Assistants with LangChain and OpenAI
-PyCon Uganda  • 7th - 9th August 2025
+PyCon Uganda    • 7th - 9th August 2025
 • [see event](https://ug.pycon.org/2025/schedule/)  
 • [Slide Presentation](https://docs.google.com/presentation/d/1RBC3aZM6EgHvmAhdBiusY3dp3XcJ46oPAyhQrXJKYso/edit?usp=sharing) 
 
