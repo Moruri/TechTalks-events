@@ -7,6 +7,21 @@ Here you will find a list of all of the talks I have given in conferences and Me
 ### 2026
 -----------
 
+Multi-Agent Architecture with A2A Protocol on Agent Runtime and ADK Integration
+DevFest Rift Valley 2026  • 24 October 2026
+[Session ](https://codelabs.developers.google.com/adk-a2a-agent-runtime#0)
+
+
+Building Multi-Agent Systems and Enterprise Integrations.
+Build with Google AI  • 13 Oct 2026
+[Session ](https://codelabs.developers.google.com/codelabs/production-ready-ai-roadshow/1-building-a-multi-agent-system/building-a-multi-agent-system#0)
+
+
+Mastering Deep Learning: One Python Script at a Time.
+PyCon Africa • 11 October 2026
+[Session ](https://lnkd.in/p/dDethnT9)
+
+
 Deploy a RAG AI Agent in Streamlit using Google ADK and Cloud Run.                         
 GDE Prep Session   • 20 August 2026 
 [Session Code lab ](https://codelabs.developers.google.com/codelabs/cloud-run/build-streamlit-rag-agent-google-adk-cloud-run#0)
